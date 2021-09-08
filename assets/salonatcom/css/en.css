@@ -1,0 +1,8 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,700,400italic,700italic&subset=latin,greek,cyrillic,vietnamese,cyrillic-ext,latin-ext);
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+.pull-left .dropdow .dropdow-menu {
+  left: 0;
+  right: auto;
+}
